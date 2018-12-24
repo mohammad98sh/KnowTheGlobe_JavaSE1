@@ -1,4 +1,4 @@
-# KnowTheGlobe_JavaSE1
+# Know The Globe Quiz #
 NetBeans Project _ Quiz Capitals&amp;Countries (Know The globe)
 This is a Java SE1 final project .
 Actually it's a quiz game about Capitals and Countries 
