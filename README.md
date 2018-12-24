@@ -4,7 +4,7 @@ This is a Java SE project done via netbeans IDE by GUI of JFrame .
 Actually it's a quiz game about Capitals and Countries 
 It has a simple and nice GUI made by Swing Library .
 It has several classes for each JFrame . The main frame is " JfMain " !
-The Leaderboard form is not working now but I might develope it in furure ;)
+The Leaderboard form is not working now but I might develope it in future ;)
 ![Alt text](https://github.com/mohammad98sh/KnowTheGlobe_JavaSE1/blob/master/P1.PNG?raw=true)
 ![Alt text](https://github.com/mohammad98sh/KnowTheGlobe_JavaSE1/blob/master/p2.PNG?raw=true)
 ![Alt text](https://github.com/mohammad98sh/KnowTheGlobe_JavaSE1/blob/master/p3.PNG?raw=true)
