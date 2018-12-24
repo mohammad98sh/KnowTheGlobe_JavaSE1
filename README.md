@@ -1,14 +1,14 @@
-# Know The Globe Quiz #
-NetBeans Project _ Quiz Capitals&amp;Countries (Know The globe)
-This is a Java SE1 final project .
+# Know The Globe Quiz (NetBeans Project) #
+_Quiz of Capitals&Countries_
+This is a Java SE project done via netbeans IDE by GUI of JFrame .
 Actually it's a quiz game about Capitals and Countries 
-It has a good GUI made with Swing .
+It has a simple and nice GUI made by Swing Library .
 It has several classes for each JFrame . The main frame is " JfMain " !
 The Leaderboard form is not working now but I might develope it in furure ;)
 .
 .
 Here are the Demo Picures of Know The Globe java jFrame app :
-![Alt text](KnowTheGlobe_JavaSE1/P1.PNG?raw=true "Title")
+![Alt text](https://github.com/mohammad98sh/KnowTheGlobe_JavaSE1/blob/master/P1.PNG?raw=true)
 _____________
 You can Execute project by .jar file in dist filder
 Don't forget to click star button for this project .
