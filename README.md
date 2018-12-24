@@ -6,11 +6,11 @@ It has a simple and nice GUI made by Swing Library .
 It has several classes for each JFrame . The main frame is " JfMain " !
 The Leaderboard form is not working now but I might develope it in furure ;)
 ![Alt text](https://github.com/mohammad98sh/KnowTheGlobe_JavaSE1/blob/master/P1.PNG?raw=true)
-![Alt text](https://github.com/mohammad98sh/KnowTheGlobe_JavaSE1/blob/master/P2.PNG?raw=true)
-![Alt text](https://github.com/mohammad98sh/KnowTheGlobe_JavaSE1/blob/master/P3.PNG?raw=true)
-![Alt text](https://github.com/mohammad98sh/KnowTheGlobe_JavaSE1/blob/master/P4.PNG?raw=true)
-![Alt text](https://github.com/mohammad98sh/KnowTheGlobe_JavaSE1/blob/master/P5.PNG?raw=true)
-![Alt text](https://github.com/mohammad98sh/KnowTheGlobe_JavaSE1/blob/master/P6.PNG?raw=true)
+![Alt text](https://github.com/mohammad98sh/KnowTheGlobe_JavaSE1/blob/master/p2.PNG?raw=true)
+![Alt text](https://github.com/mohammad98sh/KnowTheGlobe_JavaSE1/blob/master/p3.PNG?raw=true)
+![Alt text](https://github.com/mohammad98sh/KnowTheGlobe_JavaSE1/blob/master/p4.PNG?raw=true)
+![Alt text](https://github.com/mohammad98sh/KnowTheGlobe_JavaSE1/blob/master/p5.PNG?raw=true)
+![Alt text](https://github.com/mohammad98sh/KnowTheGlobe_JavaSE1/blob/master/p6.PNG?raw=true)
 _____________
 You can Execute project by .jar file in dist folder.
 Don't forget to give star to this project ;)
